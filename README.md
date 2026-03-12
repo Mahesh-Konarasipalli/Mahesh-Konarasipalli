@@ -1,39 +1,69 @@
-# Hi there, I'm K. Mahesh 👋 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hi%20there,%20I'm%20K.%20Mahesh%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-### 🚀 Aspiring Java Developer | Backend Enthusiast | Civil Engineering Graduate
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Java+Developer;Backend+Architecture+Enthusiast;Civil+Engineering+Grad+to+Techie" alt="Typing SVG" />
+</div>
 
-[cite_start]I am a highly structured and analytical developer with a background in Civil Engineering[cite: 14, 27]. [cite_start]I transitioned into tech driven by a passion for building secure, scalable backend systems and efficient algorithms[cite: 5, 28].
+<br>
 
-- 🔭 **Current Focus:** Deepening my expertise in Spring Boot, Hibernate, and exploring AI for Java Developers.
-- 💻 **Check out my live 3D Portfolio:** [Mahesh-Konarasipalli.github.io](https://Mahesh-Konarasipalli.github.io)
-- [cite_start]📫 **How to reach me:** konarasipallimahesh@gmail.com [cite: 3]
+<div align="center">
+  <em>I am a highly structured and analytical developer driven by a passion for building secure, scalable backend systems, mastering Data Structures and Algorithms (DSA), and crafting efficient APIs.</em>
+</div>
 
----
+<br>
 
-### 🛠 My Tech Stack
+### 🚀 About Me
+- 🔭 **Current Focus:** Deepening my expertise in **Spring Boot**, **Hibernate**, and exploring the intersection of **AI for Java Developers**.
+- 🌱 **Always Learning:** Constantly sharpening my problem-solving skills with DSA.
+- 💻 **Live 3D Portfolio:** [Mahesh-Konarasipalli.github.io](https://Mahesh-Konarasipalli.github.io)
+- 📫 **Reach out to me:** konarasipallimahesh@gmail.com
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | [cite_start]Java (Core & Advanced), Python [cite: 8] |
-| **Backend** | [cite_start]Spring Boot, Hibernate, Spring Data JPA, JSP, Servlets [cite: 9, 10] |
-| **Databases** | [cite_start]MySQL, Oracle [cite: 11] |
-| **Web/Mobile** | [cite_start]HTML5, CSS3, JavaScript, Bootstrap [cite: 9] |
-| **Tools** | [cite_start]Git, GitHub, Maven, Postman, IntelliJ IDEA, Eclipse [cite: 12] |
+<br>
 
----
+### 🛠️ Tech Stack & Tools
 
-### 🌟 Featured Project
-[cite_start]**Online Job Portal System** 
-- [cite_start]Built a web-based platform for job seekers and employers using **Java, JSP, and Servlets**[cite: 19, 21, 22].
-- [cite_start]Implemented an **MVC architecture** and integrated **MySQL** for robust data persistence[cite: 23, 24].
-- [cite_start]Added **Role-Based Access Control** to ensure secure user authentication[cite: 25].
+**Languages & Frameworks** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
----
+**Frontend & Databases** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 GitHub Stats
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Konarasipalli&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Konarasipalli&layout=compact&theme=radical)
+**Tools & Architecture** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![MVC](https://img.shields.io/badge/Architecture-MVC-000000?style=for-the-badge)
 
----
+<br>
 
-[cite_start]"I am passionate about clean code and thrive in team environments where I can learn and contribute to innovative solutions." [cite: 28, 29]
+### 🌟 Featured Projects
+
+#### 🏢 Online Job Portal System
+* **Tech:** Java, JSP, Servlets, MySQL, Bootstrap
+* **Details:** Built a complete web-based platform bridging job seekers and employers. Implemented an **MVC architecture**, robust data persistence, and **Role-Based Access Control** to ensure secure authentication across multiple user dashboards.
+
+#### 📱 Employee Directory App (Full-Stack)
+* **Tech:** Spring Boot, REST APIs, Flutter, MySQL
+* **Details:** Developed a full-stack mobile application fetching dynamic employee data. Engineered a secure "Hello World" to full-production **Spring Boot REST API** backend, seamlessly consumed by a cross-platform **Flutter** frontend interface using advanced models and API services.
+
+<br>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Konarasipalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Konarasipalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" />
+</div>
