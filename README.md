@@ -49,9 +49,9 @@
 * **Tech:** Java, JSP, Servlets, MySQL, Bootstrap
 * **Details:** Built a complete web-based platform bridging job seekers and employers. Implemented an **MVC architecture**, robust data persistence, and **Role-Based Access Control** to ensure secure authentication across multiple user dashboards.
 
-#### 📱 Employee Directory App (Full-Stack)
-* **Tech:** Spring Boot, REST APIs, Flutter, MySQL
-* **Details:** Developed a full-stack mobile application fetching dynamic employee data. Engineered a secure "Hello World" to full-production **Spring Boot REST API** backend, seamlessly consumed by a cross-platform **Flutter** frontend interface using advanced models and API services.
+#### 💻 Employee Directory App (Full-Stack)
+* **Tech:** Spring Boot, REST APIs, JSP, MySQL
+* **Details:** Developed a full-stack mobile application fetching dynamic employee data. Engineered a secure "Hello World" to full-production **Spring Boot REST API** backend, seamlessly consumed by a cross-platform **JSP** frontend interface using advanced models and API services.
 
 <br>
 
