@@ -19,6 +19,7 @@
 - 🌱 **Always Learning:** Constantly sharpening my problem-solving skills with DSA.
 - 💻 **Live 3D Portfolio:** [Mahesh-Konarasipalli.github.io](https://Mahesh-Konarasipalli.github.io)
 - 📫 **Reach out to me:** konarasipallimahesh@gmail.com
+- 🔗**LinkedIn:** https://www.linkedin.com/in/mahesh-konarasipalli-6797882a2/
 
 <br>
 
