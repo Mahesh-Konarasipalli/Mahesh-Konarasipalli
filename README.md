@@ -58,8 +58,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/api?username=Mahesh-Konarasipalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Mahesh-Konarasipalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="[https://https://mahesh-konarasipalli.vercel.app/api?username=Mahesh-Konarasipalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://https://mahesh-konarasipalli.vercel.app/api/top-langs/?username=Mahesh-Konarasipalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 <br>
