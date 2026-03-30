@@ -58,12 +58,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Konarasipalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Konarasipalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+  <img src="https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/api?username=Mahesh-Konarasipalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Mahesh-Konarasipalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" alt="Footer Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" />
 </div>
